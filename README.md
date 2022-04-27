@@ -1,3 +1,0 @@
-# mspbatterytracker
-
-.gitignore
